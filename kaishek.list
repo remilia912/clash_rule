@@ -1,0 +1,5 @@
+# 内容：本地访问
+# 域名关键字匹配
+DOMAIN-KEYWORD,kaishek
+# 域名后缀匹配
+DOMAIN-SUFFIX,kaishek.uk
