@@ -20,3 +20,8 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+# 域名关键字匹配
+DOMAIN-KEYWORD,cohere
+# 域名后缀匹配
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,cohere.ai
