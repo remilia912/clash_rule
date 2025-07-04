@@ -1,6 +1,8 @@
 # 内容：本地访问
 # 域名关键字匹配
 DOMAIN-KEYWORD,kaishek
+DOMAIN-KEYWORD,nyabit
 DOMAIN-KEYWORD,81rc
 # 域名后缀匹配
 DOMAIN-SUFFIX,81.cn
+DOMAIN-SUFFIX,nyabit.com
