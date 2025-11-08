@@ -1,0 +1,6 @@
+payload:
+  # Steam 创意工坊/社区专用规则（走代理）
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN,workshop.steamcommunity.com
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net  # 社区 CDN
+  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net  # 用户内容
